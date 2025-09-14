@@ -1,0 +1,2 @@
+param_id,accuracy,patch_size,patch_stride,num_blocks,large_size,small_size,dims
+ps1_str1_blk1_ls31_ss3_dim32,0.0000,1,1,1,31,3,32

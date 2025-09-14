@@ -1,0 +1,12 @@
+[
+    {
+        "param_id": "ps1_str1_blk1_ls31_ss3_dim32",
+        "patch_size": 1,
+        "patch_stride": 1,
+        "num_blocks": 1,
+        "large_size": 31,
+        "small_size": 3,
+        "dims": 32,
+        "accuracy": 0.0
+    }
+]
