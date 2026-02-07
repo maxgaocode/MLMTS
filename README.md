@@ -25,7 +25,7 @@ python train.py
 
 ## Multivariate Time Series data
 
-You can get the UEA dataset [here](http://timeseriesclassification.com/dataset.php "访问数据集"). Different data belong to different types. For example, Wearable Human Activity Recognition (HAR) is an important field of research in smart assistive technologies. The details description is shown in the fllows:
+You can get the UEA dataset [here](http://timeseriesclassification.com/dataset.php "访问数据集"). Different data belong to different types. For example, Wearable Human Activity Recognition (HAR) is an important field of research in smart assistive technologies. The details description is shown in the follows:
 
 
 | Datasets (short) | Datasets | ID | Train | Test | Dim | Length | Class |
